@@ -1,0 +1,28 @@
+[
+  {
+    title: 'Tor Browser',
+    appId: 'org.torproject.torbrowser',
+    url: 'https://play.google.com/store/apps/details?id=org.torproject.torbrowser',
+    icon: 'https://play-lh.googleusercontent.com/riCYzcp6mWqbcIY8lT3tlIpKaIFvRA_twgDjrJpJtWFv4OJnD2tka8iuMhXSJbAzRJ8',
+    developer: 'The Tor Project',
+    currency: 'USD',
+    price: 0,
+    free: true,
+    summary: 'Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world’s strongest tool for privacy and freedom online. <br><br>Tor Browser will ALWAYS be free, but donations make it possible. The Tor<br>Project is a 501(c)(3) nonprofit based in the US. Please consider making<br>a contribution today. Every gift makes a difference: https://donate.torproject.org.<br><br>BLOCK TRACKERS<br>Tor Browser isolates each website you visit so third-party trackers and ads can’t follow you. Any cookies automatically clear when you’re done browsing. <br><br>DEFEND AGAINST SURVEILLANCE<br>Tor Browser prevents someone watching your connection from knowing what websites you visit. All anyone monitoring your browsing habits can see is that you’re using Tor. <br><br>RESIST FINGERPRINTING<br>Tor aims to make all users look the same, making it difficult for you to be fingerprinted based on your browser and device information.<br><br>MULTI-LAYERED ENCRYPTION<br>When you use Tor Browser for Android, your traffic is relayed and encrypted three times as it passes over the Tor network. The network is comprised of thousands of volunteer-run servers known as Tor relays. Watch this animation to learn more about how it works: <br><br>BROWSE FREELY<br>With Tor Browser for Android, you are free to access sites your local internet service provider may have blocked. <br><br>THIS APP IS MADE POSSIBLE BY DONORS LIKE YOU<br>Tor Browser is free and open source software developed the Tor Project, a nonprofit organization. You can help keep Tor strong, secure, and independent by making a donation: https://donate.torproject.org/<br><br>Learn more about Tor Browser for Android:<br>- Need help? Visit https://tb-manual.torproject.org/mobile-tor/.<br>- Learn more about what’s happening at Tor: https://blog.torproject.org<br>- Follow the Tor Project on Twitter: https://twitter.com/torproject<br><br>ABOUT THE TOR PROJECT<br>The Tor Project, Inc., is a 501(c)(3) organization developing free and open source software for privacy and freedom online, protecting people from tracking, surveillance, and censorship. The Tor Project’s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, support their unrestricted availability and use, and further their scientific and popular understanding.',
+    scoreText: '4.3',
+    score: 4.3265824
+  },
+  {
+    title: 'Decentr Mobile Browser',
+    appId: 'net.decentr.browser',
+    url: 'https://play.google.com/store/apps/details?id=net.decentr.browser',
+    icon: 'https://play-lh.googleusercontent.com/lQbKFWBiinNwKNssF7aZltrNBpz8YHasa9uzJgSmTUFcHesFXsOhkEoZ26lJ6XlvQUL0',
+    developer: 'Decentr',
+    currency: 'USD',
+    price: 0,
+    free: true,
+    summary: '<b>Browse to earn</b>. Get paid for the user data that Decentr browser values and stores in blockchain. <br><br><b>Sync Decentr across devices</b>. When you sign in to Decentr, it syncs across the devices, so that you can get an access to your Decentr account and get paid for browsing on whatever device you are on.<br><br><b>Delegate your stake</b>. Delegated staking provides an easy way for DEC token holders to earn APR on the Decentr network, without having to run a Decentr validator.',
+    scoreText: '4.6',
+    score: 4.612903
+  }
+]
