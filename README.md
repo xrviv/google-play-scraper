@@ -617,3 +617,4 @@ gplay.search({term: 'panda', throttle: 10}).then(console.log);
 ```
 
 By default, no throttling is applied.
+# google-play-scraper
